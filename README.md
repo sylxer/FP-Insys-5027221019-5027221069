@@ -699,4 +699,4 @@ code diatas ntuk Raspberry Pi yang mengedipkan LED yang terhubung ke pin GPIO 12
 
 
 ### Record
-https://youtu.be/dpXYssc0mOg
+https://youtu.be/3klkBdQQ5AM
