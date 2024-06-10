@@ -685,14 +685,14 @@ code diatas ntuk Raspberry Pi yang mengedipkan LED yang terhubung ke pin GPIO 12
 - LED mati
 ![2](kel7/dokum/2.jpeg)
 
-- LED nyala
-![8](kel7/dokum/8.jpeg)
-
 - temp `>0` bakal nyala
 ![1rf](kel7/dokum/6.jpeg)
 
 - LED on/nyala
 ![nyalaabngkuh](kel7/dokum/7.jpeg)
+
+- LED nyala
+![8](kel7/dokum/8.jpeg)
 
 - Tampilan web 
 ![0](kel7/dokum/4.jpeg)
